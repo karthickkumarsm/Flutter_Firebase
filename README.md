@@ -1,16 +1,20 @@
-# todolist
 
-A new Flutter project.
+# Project Title
+Flutter Firebase - An Employee's Management app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Project Description
+* A Flutter Application
+* An app for managing Employee details
+* Can add or update or delete the details of the employees
+* Performs CRUD operation using Firebase
+* The UI is responsive in both web and mobile
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 About Me
+* I'm a Java Programmer.
+* Web dev and Mobile app enthusiastic 
+* Currently learning MERN stack development and Mobile App Development using flutter.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthick-kumar-sm)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sm_karthick)
